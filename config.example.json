@@ -1,6 +1,6 @@
 {
   "listen": "0.0.0.0:8080",
-  "server_keys": ["123456"],
+  "server_keys": ["888bfjokcedhkkgkjbb"],
   "zen_keys": [],
   "go_keys": [],
   "anonymous": true,
@@ -37,7 +37,7 @@
     "enabled": true,
     "listen": "0.0.0.0:8081",
     "username": "admin",
-    "password": "یک-رمز-حداقل-۱۰-کاراکتری-قوی",
+    "password": "12345678",
     "session_ttl_minutes": 720
   },
   "prefer": "zen",

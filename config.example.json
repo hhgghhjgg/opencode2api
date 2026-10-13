@@ -37,7 +37,7 @@
     "enabled": true,
     "listen": "0.0.0.0:8081",
     "username": "admin",
-    "password": "12345678",
+    "password": "Amin112930",
     "session_ttl_minutes": 720
   },
   "prefer": "zen",
